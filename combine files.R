@@ -1,6 +1,6 @@
 library(readxl)
 combine_info = read_xlsx(file.choose())
-#check data 
+#check dat
 str(combine_info)
 #summary stats
 install.packages("summarytools")
