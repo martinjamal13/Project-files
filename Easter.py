@@ -1,4 +1,4 @@
-#Calculating gregorian shit
+#Calculating gregorian 
 import sys
 def easter_date(Y):
     if Y < 1583:
