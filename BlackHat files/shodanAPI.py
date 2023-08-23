@@ -1,3 +1,4 @@
+#script for scrapping elasticsearches on shodan API
 import shodan, json
 def countrycount(api = {}, countries = []):
     dict_count = {}
