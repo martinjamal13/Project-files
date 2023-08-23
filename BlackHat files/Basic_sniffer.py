@@ -1,4 +1,4 @@
-import socket 
+import socket
 import os
 
 HOST ="your IP" #"192.168.1.203"
